@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace projetoInterfaces.Dominio
+namespace projetoInterfaces.Entidades
 {
 	class Contrato
 	{
